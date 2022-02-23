@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a sham-plotter or man-catcher</title>
+            <author>Hickeringill, Edmund, 1631-1708.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43616</idno>
+            <idno type="STC">Wing H1802</idno>
+            <idno type="STC">ESTC R12609</idno>
+            <idno type="EEBO-CITATION">13016920</idno>
+            <idno type="OCLC">ocm 13016920</idno>
+            <idno type="VID">96575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a sham-plotter or man-catcher</title>
+                  <author>Hickeringill, Edmund, 1631-1708.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ab. Green,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: E.H.</note>
+                  <note>A very black picture of villains of the stamp of Titus Oates. Cf. Crawford, J.L.L. Cat. of Engl. broadsides.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96575:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF A Sham-Plotter or Man-Catcher.</head>
+            <p>A <hi>Sham-Plotter</hi> (to begin with his Pedigree) is the <hi>Spawn</hi> of a <hi>Papiſt,</hi> as a <hi>Toad-Poll</hi> of a <hi>Toad,</hi> their Inwards and Venom are <hi>the ſame,</hi> but <hi>they differ</hi> in outward Shape, Lineaments, and Proportion, for want <hi>only of maturity:</hi>
+            </p>
+            <p>For Evaſions, Lies, Oaths and Equivocations, he is <hi>Conſcienc'd</hi> like a <hi>Jeſuite, Covetous</hi> as <hi>Ahab,</hi> and <hi>Blood<g ref="char:EOLhyphen"/>thirſty</hi> as <hi>Jezabel.</hi>
+            </p>
+            <p>You may call him <hi>Horſe-Leech;</hi> for blood <hi>he thirſts,</hi> by blood <hi>he lives,</hi> and by blood he uſually <hi>dyes,</hi> 'tis his Food and his Bane, as <hi>Fatal</hi> as <hi>Pleaſant</hi> to his Ap<g ref="char:EOLhyphen"/>petite.</p>
+            <p>He is the <hi>Land-Pyrate,</hi> that Pickaroons mens Lives and Eſtates, by putting out falſe Colours, his whole <hi>Cargo and Stock</hi> being only a ſtock of Impudence, Lies and Oaths.</p>
+            <p>For he Swallows Oaths with as nimble conveyance as <hi>Hocus</hi> does Knives; and as ready to ſpew them up again to Murder the Innocent: for the Daggers that <hi>Cle<g ref="char:EOLhyphen"/>ments</hi> and <hi>Ravilliacks</hi> carryed in their Sleeves, he car<g ref="char:EOLhyphen"/>ries in his Mouth, ready when <hi>his Cue comes,</hi> to Stab his Brother with the Dexterity of <hi>Cain,</hi> and for the ſame Reaſon; becauſe <hi>more Righteous than himſelf.</hi>
+            </p>
+            <p>There is no more fence againſt his ſtrokes, than a<g ref="char:EOLhyphen"/>gainſt Lightning or Thunder-Bolts, no caution, no prudence, no Innocence can protect; <hi>God help the while.</hi>
+            </p>
+            <p>He gets his Bread (like the <hi>Spaniſh-Bravo's</hi>) by kil<g ref="char:EOLhyphen"/>ling of men, and when Conſcience flyes in his Face for it, he fobs her off, with ſaying—<hi>It is his Trade,</hi> and Vocation.</p>
+            <p>He is the worſt and blackeſt of <hi>Knights of the Poſt;</hi> for theſe formerly Swore men out of <hi>nothing but their Eſtates,</hi> but this <hi>Vulture</hi> and Bird of Prey is <hi>Keen</hi> and Sharp, flyes at all: can ruin Life, Honour, Eſtate and Poſterity <hi>at once.</hi>
+            </p>
+            <p>No man ever took more pains in hunting after Game for his <hi>Pleaſure,</hi> than this does for <hi>Gain</hi> and Revenge; he beats every Buſh, turns every Stone, inſinuates into all Companies, ſeeks occaſion, gives occaſion and pro<g ref="char:EOLhyphen"/>vocation, inceſſant in miſchief, like a true-bred <hi>Incar<g ref="char:EOLhyphen"/>nate-Devil, walking to and fro,</hi> ſeeking whom he may devour.</p>
+            <p>He is ſo very a <hi>Judus</hi> that he often betrays his own Maſters and Employers, (as <hi>Imps</hi> betray <hi>Witches</hi> ſo) this <hi>Impe</hi> betrays to the Gallows the <hi>Haggs</hi> that ſuckled him, fed and nouriſht him.</p>
+            <p>For (like other Aſſes) he follows his Rider only for the ſake of Provender, and when that is done or eaten, rewards his Keeper with a kick, and a jades trick if he can.</p>
+            <p>For his Life is the <hi>great Riddle</hi> of the world, it puz<g ref="char:EOLhyphen"/>zles the wiſeſt Criticks to know <hi>what to make of him;</hi> for <hi>here</hi> you ſhall have him, and <hi>there</hi> you ſhall have him; ſomtimes <hi>Swears on one ſide,</hi> ſomtimes <hi>another.</hi> And when you think you have him ſure, <hi>Ixion</hi>-like, you do but Hugg a Cloud and Embrace a Shadow; for there's nothing of Truth, ſubſtance or reality in him; he changes his Oaths, as Chapmen come, or (as at a <hi>Lyth-Coop</hi>) for—<hi>who bids more?</hi>
+            </p>
+            <p>Nothing being the Maſter of his Conſcience but money, and therefore no more credit to be given to his Oaths or Words, than to thoſe <hi>Ambodexter-Lawyers,</hi> that take Fees on both ſides, Plead <hi>Pro</hi> and <hi>Con,</hi> Bawling, <hi>(like Curſt Currs)</hi> at their very Maſters whoſe hands<g ref="char:EOLhyphen"/>fed them but the day before; being therefore the very <hi>Baboons</hi> of Ingratitude, as having nothing in them of <hi>humanity, but the ſhape.</hi>
+            </p>
+            <p>This <hi>Couple</hi> or pair uſually Hunt together, and in <hi>Couples,</hi> being as neceſſary to each other as the <hi>Pick-Pocket</hi> and <hi>Rope-Dancer;</hi> or as the <hi>Bawd and the Whore;</hi> or as the <hi>Lion and Jackall;</hi> or a <hi>Pimp and a Whore-Maſter;</hi> or a <hi>Grey-Hound and a Finder;</hi> or a <hi>Mountebank and his Fool;</hi> the one <hi>Sets,</hi> and <hi>brings in Game,</hi> and the other <hi>Hunts it down,</hi> and then <hi>both go ſnips</hi> in the Prey; both of them are beſt pleas'd and moſt applaud their Induſtry when <hi>Proſperous in Villany;</hi> then <hi>Huzzah,—Huzzah.</hi>— And, like other Toads, the <hi>more Venom</hi> they ſuck, <hi>the greater they gram,</hi> ſwell and <hi>look bigg:</hi> for their <hi>Primum Mobile</hi> is hopes of <hi>Preferment,</hi> and <hi>money, money;</hi> that's the <hi>burden</hi> of their Song to their Clients and Cuſtomers (like that of <hi>Jago</hi> in the <hi>Moor of Venice</hi>) go, <hi>put money in thy Purſe,</hi> make all the money that thou canſt, <hi>Fill thy Purſe with money.</hi>
+            </p>
+            <p>The Judg and Jury that would take them right, muſt Conſtrue them as they do Dreams (or Witches-Prayers) <hi>read them backward,</hi> and by the Contrary.</p>
+            <p>When theſe pair of Brothers meet (like two Knives) (as in a late inſtance) <hi>they whet one another,</hi> and ſharpen to miſchief.</p>
+            <p>The <hi>Indian-Cannibals</hi> and <hi>Man-eaters</hi> are (to my knowledge) but a <hi>Romance to theſe,</hi> that (like the wild <hi>Arabs</hi> in the Deſart) live upon mans Fleſh, and get <hi>their living by Mummy.</hi>
+            </p>
+            <p>When they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope their <hi>breath-ſelling-mouths,</hi> you would think <hi>Pandora</hi>'s Box begun to gape and open, for <hi>out flies</hi> Plagues, Death and Ruine.</p>
+            <p>There's no more Truth in them, then in an <hi>Hypocrite;</hi> And they are as <hi>full of Lyes</hi> as any <hi>Gazet,</hi> or <hi>Dome<g ref="char:EOLhyphen"/>meſtick-Intelligence;</hi> and as full of Flattery as an <hi>Epiſtle Dedicatory;</hi> or a <hi>Probational Sermon</hi> (in preſence of the Patron) when the trembling Candidate <hi>has proſpect</hi> of a Benefice.</p>
+            <p>They <hi>(both of them)</hi> Love and Hate <hi>(as their Whores do)</hi> only for mony and preferment; and to com<g ref="char:EOLhyphen"/>paſs their ends become the <hi>Renegado's of Truth,</hi> Ho<g ref="char:EOLhyphen"/>neſty and Religion.</p>
+            <p>But I'le <hi>uncouple the Doggs</hi> a while, and Hunt them ſingle;</p>
+            <p>And firſt methinks I ſee my <hi>Sham-Plotter;</hi> I know him by his looks, which are as full of Melancholy and Deſpair, as the <hi>Sybills</hi> of old, or Mother <hi>Shipton</hi> meagre and wan, as always poring on Revenge, and meditating and <hi>remembring his latter end</hi> (I mean) <hi>Hell and the torments thereof,</hi> which have begun to commence in his own Boſome.</p>
+            <p>For his mind is hot as <hi>Aetna,</hi> and his Conſcience (when he is awake and not drunk) is Turgid and trou<g ref="char:EOLhyphen"/>bled, as the <hi>Bay of</hi> Biſcay, always threatning a a Storm; his viſage (like <hi>Faux</hi> in diſguize) ready to give <hi>Eire to the Train</hi> of a well and deep-laid-Plot.</p>
+            <p>His love, (if he have any,) is only that of <hi>Cuckolds,</hi> loves them beſt that are his undoers; nor is he ever good natur'd or merciful but <hi>(as Cowards are)</hi> when he <hi>dares not</hi> be miſcheivous: for he has no more remorſe, Follow-feeling, pitty or relenting, than a man of Ala<g ref="char:EOLhyphen"/>baſter.</p>
+            <p>He has the <hi>Plague all over him,</hi> and like other in<g ref="char:EOLhyphen"/>fected Perſons, deſires to ſpread his Venome and Infe<g ref="char:EOLhyphen"/>ction, and kill as many as he can; and therefore all that know him, avoid him, as the Peſtilence.</p>
+            <p>Nay, He's the worſt of Plagues, Charity is never a ſin but to him alone. 'tis a ſin, to bid him—<hi>God<g ref="char:EOLhyphen"/>ſpeed,</hi> or to write ſo much as a—<hi>Lord have mercy</hi>— o're his door.</p>
+            <pb facs="tcp:96575:2"/>
+            <p>In ſhort, to <hi>Limn him right,</hi> he's the very <hi>Picture in little,</hi> or Epitome of <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raclitus Ridens,</hi> (that is) a <hi>Villain Burleſque,</hi> an equal Compound of Knave and Fool, the ſingle Hieroglyphick, of <hi>Balaam and his Aſs together.</hi>
+            </p>
+            <p>He's miſcheivous in <hi>Earneſt,</hi> but never ſpeaks Truth but in <hi>Jeſt,</hi> or <hi>makes a Jeſt</hi> of Truth; a ſerious-dull-Phlegmatick piece of Scurrility; and like <hi>Merry-An<g ref="char:EOLhyphen"/>drew</hi> ſpoils all the firſt proffers of Ingenuity, by being Flaccid, and ſtail at the laſt, and <hi>nauſeous to a Cram<g ref="char:EOLhyphen"/>bee;</hi> a meer <hi>Common-Place</hi> of Dulneſs and Calamny <hi>ana,</hi> or the <hi>Grimace of Honour</hi> and Wit.</p>
+            <p>Yet, as proſperous as he is in Villany, he's <hi>as poor</hi> as a bad Poet, or as a <hi>Lampoon-maker,</hi> or an <hi>Intelli<g ref="char:EOLhyphen"/>gencer:</hi> but as <hi>Impudent in begging,</hi> as the <hi>Mumpers</hi> in <hi>Lincolns-Inn-fields,</hi> for he ſeeks to all Comers; and a Penſion the Slave will have <hi>one where or another,</hi> from the good, the bad.</p>
+            <p>For his Debauchery and Riots make him poor and Needy, And his Poverty (like his Luſts) makes him a Beggar and a Penſioner, ſometimes <hi>Mumping</hi> for an Almes from <hi>Rome,</hi> ſometimes from the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity;</hi> Yet as Poor as he is, he is ('Tis <hi>Strange</hi>) alſo guilty of Coveteouſneſs, <hi>The Root of all Evil,</hi> enough, (like <hi>Original Sin</hi>) to <hi>Infect the whole</hi> Generation.</p>
+            <p>To give ſome Credit to his <hi>Sham's,</hi> he often inter<g ref="char:EOLhyphen"/>laces his Diſcourſe,—<hi>Remember</hi>—41. Meaning the Commencement of the Unnatural Troubles in <hi>En<g ref="char:EOLhyphen"/>gland in</hi>—41.</p>
+            <p>But he never Intends thereby that men ſhould Re<g ref="char:EOLhyphen"/>member the <hi>Bloody Maſſacres</hi> of his Brethren (the <hi>Tories</hi>) in <hi>Ireland in</hi>—41. Nor has he (now) any more Pity or Remorſe for an Innocent man (when his Turn comes to Swear) then his Brethren the <hi>Iriſh Cut-throats</hi> ſhew'd to the <hi>Innocent Babes in</hi>—41. When they Ript them alive out of their Mothers Bel<g ref="char:EOLhyphen"/>lies, and carried them on the Top of their Spears, (as <hi>Trophee's of their Murder) in</hi>—41. A Cruelty Deſign'd for all Proteſtants in <hi>England, Scotland, and Ireland, in</hi>—41. If God Almighty and their Valour had not Subdued the Rebell-Cut-Throats—in 41. Come then, Let's <hi>Remember ſtill</hi>—41.—41.</p>
+            <p>When Shoals of theſe <hi>Shirks</hi> theſe <hi>Tories</hi> and <hi>Sham-Plotters,</hi> appear Bare-fac't in any Land or Nation, they are as Fatal and <hi>Prodigions,</hi> as <hi>Sword-Fiſhes, Sharks,</hi> and <hi>Whales,</hi> when thrown up in the <hi>Thames,</hi> allways <hi>Foreboding</hi> ſome enſuing Plagues, War, or Miſchiefs, like <hi>Vultures</hi> that Haunt (by wiſe Preſage) an Army before a Bloody Battel, Prophecying Streams of Blood ſhortly to Enſue.</p>
+            <p>He never Forſwears Villany till he comes to the Gallows (like <hi>Fitzh-</hi>) and can no longer Practice it; like Gameſters that Forſwear play, <hi>only when</hi> their Mo<g ref="char:EOLhyphen"/>neys are loſt and gone, and they want Stakes to play on.</p>
+            <p>He likes his Trade (as bad as it is) becauſe ſince he left the Pad, he has no other; and he likes it ſo much the better, becauſe he cannot break on't till he break his Neck; nor ever will want Cuſtomers or Mo<g ref="char:EOLhyphen"/>ney, till the World wants Villany, or till Truth get Credit in the World.</p>
+            <p>He Swears and gives in Evidence (as a Young play<g ref="char:EOLhyphen"/>er ſays his Part) <hi>onely as he is Prompted,</hi> But Bluſhes no more when he's out of his Story, and has Sworn Counter, then does an Old Stage-Player, <hi>hardned to the work,</hi> and Inur'd beyond the <hi>poſſibility of Modeſty</hi> or ſhame for an Eſcape.</p>
+            <p>His Complexion is allways <hi>A-la-mode</hi> (I mean) <hi>Paynted</hi> and Hypocritical; <hi>he is not</hi> (nor does he De<g ref="char:EOLhyphen"/>ſire to ſeem) <hi>what he is:</hi> For ſhould he appear as <hi>na<g ref="char:EOLhyphen"/>ked</hi> as <hi>Truth,</hi> he would look as <hi>Ghaſtly</hi> and Deform'd, as old <hi>Lady Death's head</hi> (the <hi>French Pimp)</hi> before her <hi>Eſſences</hi> are <hi>laid on:</hi> But let him Trim himſelf with ſome Dreſs of Religion, Loyalty and Honeſty, and of <hi>(I know not what)</hi> Church, yet if you knew his Inſide, you would think yourſelf among the <hi>Negro's,</hi> and (with them) call the <hi>Devil, (Strange</hi> it ſhould be)—<hi>a White-man.</hi>
+            </p>
+            <p>
+               <hi>He's a Younger Brother</hi> (both by Father and Mo<g ref="char:EOLhyphen"/>ther ſide) to the <hi>A-la-mode</hi>-Murderers, the <hi>Poyſoners in France,</hi> Engender'd by a Jeſuit upon a <hi>Succubus</hi> (or ſhe Devil,</p>
+            <p>
+               <hi>His very Smiles</hi> are as Dangerous as the <hi>Fawnings</hi> of a <hi>Mad-Dogg;</hi> he offers to <hi>lick</hi> your Fingers only to <hi>Snap</hi> at them; therefore keep him at a Diſtance, and <hi>Stave's-End;</hi> For his <hi>Embraces</hi> are as <hi>Fatal</hi> as thoſe, of his <hi>Whore;</hi> and as <hi>hollow</hi> and Counterfeit as thoſe of the <hi>Prelate,</hi> when he <hi>Cringes,</hi> and <hi>Bowes;</hi> Leers and grins <hi>fawns</hi> and <hi>ſmiles</hi> on an <hi>Athieſtical Don</hi> or <hi>Pimp.</hi>
+            </p>
+            <p>An Informer or Promoter comes a far ſhort of a Sham-Plotter as a <hi>Chick</hi> in <hi>Embrio</hi> from a feather'd Fowl, or as a ſucking Imp from a Grand Devil, or as a Whelp from a Dog of the ſame kind time and experience will improve him, and make him <hi>perfect Dog.</hi>
+            </p>
+            <p>In ſhort, He's more Cowardly than a Tory, and yet Luſtful enough to Debauch the Stews; and therefore the old Character fits him to a hair, namely,
+<q>
+                  <hi>Mars ad opus Veneris, Martis ad Arma Venus.</hi>
+               </q>
+            </p>
+            <p>In Engliſh thus:
+<q>
+                  <l>
+                     <hi>In Sports of</hi> Venus <hi>he's a</hi> Mars,</l>
+                  <l>
+                     <hi>But a meer Woman in the Wars.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Or thus:
+<q>
+                  <l>
+                     <hi>When he's to fight his heart is broke,</hi>
+                  </l>
+                  <l>
+                     <hi>But at a Wench he's heart of Oak.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Or thus:
+<q>
+                  <l>
+                     <hi>In the grim Wars (alas!) he's no Man;</hi>
+                  </l>
+                  <l>
+                     <hi>He'll play the Man (tho') with a Woman.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>He <hi>never confeſſes</hi> his Villany, except (as Thieves ſometimes do) to acquit himſelf by Impeaching <hi>his fel<g ref="char:EOLhyphen"/>low Criminals.</hi>
+            </p>
+            <p>In fine, (for I am weary of drawing his Picture, and <hi>ſick of him and his Deformities</hi>) He has <hi>Impu<g ref="char:EOLhyphen"/>dence</hi> enough to out-ſtare a Courtier, and make him bluſh; <hi>Knavery</hi> enough to teach a <hi>Jew,</hi> a <hi>Proctor.</hi> or a <hi>Regiſter; Lechery</hi> enough to tutor a <hi>Cardinal; A<g ref="char:EOLhyphen"/>theiſm</hi> and <hi>Irreligion</hi> enough to pervert a <hi>Renegado,</hi> and make him worſe; <hi>Oaths, Curſes,</hi> and <hi>Imprecations</hi> enough to prophane a <hi>Court,</hi> or the <hi>Ordinaries; Folly</hi> and <hi>Madneſs</hi> enough to merit <hi>Bedlam;</hi> yet <hi>Roguery</hi> enough to merit <hi>Bridewel; Lies</hi> enough to out-vie a <hi>Traveller,</hi> or <hi>THOMPSON</hi> the <hi>INTELLIGENCER; Cruelty</hi> enough to improve an <hi>Iriſh-Tory; Dulneſs</hi> and <hi>Slander</hi> enough to out-<hi>Billingſgate HERACLI<g ref="char:EOLhyphen"/>T<g ref="char:V">Ʋ</g>S RIDENS; Villany</hi> enough to miſlead and ſcan<g ref="char:EOLhyphen"/>dal a <hi>Goal; Sycophantry</hi> enough to out-pimp—<hi>&amp;c.—Flattery</hi> enough to out-dwindle a <hi>Prelate; Prodiga<g ref="char:EOLhyphen"/>lity</hi> enough to <hi>Inſtruct</hi> (as well as Ruine) a <hi>Young Heir;</hi> and yet <hi>Covetouſneſs</hi> and <hi>Ambition</hi> enough to ſurpaſs a <hi>Conclave; Helliſh Stratagems</hi> and <hi>Sham-Plots</hi> enough to <hi>ſhame the Devil</hi> or a <hi>Jeſuite; Pro<g ref="char:EOLhyphen"/>phaneneſs</hi> enough to out-rant a <hi>Tory; Ingratitude</hi> enough to equal <hi>Judas</hi> himſelf; <hi>Deſpair</hi> enough to <hi>hang himſelf;</hi> yet <hi>Vileneſs</hi> enough to diſcredit the <hi>Gallows.</hi> And there I leave him, for that groans for him, and is often his—END.</p>
+            <p>But we have had <hi>too much</hi> of him already: For his further Character I refer you to that <hi>Seaſonable</hi> Ser<g ref="char:EOLhyphen"/>mon of the <hi>Horrid Sin of Man-Catching,</hi> where you'l find this Man-Catchers Picture is drawn to the Life by E. H.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ab. Green,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
